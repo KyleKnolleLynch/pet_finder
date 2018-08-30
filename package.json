@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "Pet Finding App",
   "main": "index.js",
+  "homepage": "https://KyleKnolleLynch.github.io/pet-finder-app",
   "scripts": {
-    "deploy": "gh-pages -d"
+    "deploy": "gh-pages -d dist"
   },
   "keywords": [],
   "author": "Kyle Lynch",
