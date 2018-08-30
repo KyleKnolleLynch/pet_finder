@@ -5,7 +5,7 @@
   "main": "index.js",
   "homepage": "https://KyleKnolleLynch.github.io/pet_finder",
   "scripts": {
-    "deploy": "gh-pages -d"
+    "deploy": "gh-pages -d dist"
   },
   "keywords": [],
   "author": "Kyle Lynch",
