@@ -5,4 +5,4 @@
 * Javascript
 *  Parcel
 *  Babel
-*  Bootstrap# pet-finder-app
+*  Bootstrap
