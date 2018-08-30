@@ -2,7 +2,7 @@
   "name": "pet_finder",
   "version": "1.0.0",
   "description": "Pet Finding App",
-  "main": "index.js",
+  "main": "index.html",
   "homepage": "https://KyleKnolleLynch.github.io/pet_finder",
   "scripts": {
     "deploy": "gh-pages -d dist"
