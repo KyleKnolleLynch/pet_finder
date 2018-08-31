@@ -3,12 +3,12 @@
   "version": "1.0.0",
   "description": "Pet Finding App",
   "main": "index.js",
-  "homepage": "https://KyleKnolleLynch.github.io/pet_finder",
+ /* "homepage": "https://KyleKnolleLynch.github.io/pet_finder",*/
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html",
+    "build": "parcel build index.html"/*,
     "deploy": "gh-pages  -d dist"
-  },
+  }*/,
   "keywords": [],
   "author": "Kyle Lynch",
   "license": "ISC",
