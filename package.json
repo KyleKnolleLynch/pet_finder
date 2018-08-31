@@ -7,7 +7,7 @@
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html --public-url ./",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages index.html --public-url ./"
   },
   "keywords": [],
   "author": "Kyle Lynch",
