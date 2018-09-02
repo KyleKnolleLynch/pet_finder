@@ -5,8 +5,8 @@
   "main": "index.js",
   "homepage": "https://kyleknollelynch.github.io/pet_finder",
   "scripts": {
-    "start": "parcel index.html",
-    "build": "parcel build index.html",
+    "start": "parcel",
+    "build": "parcel build index.html --public-url ./",
     "deploy": "gh-pages -d dist"
   },
   "keywords": [],
