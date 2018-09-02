@@ -6,8 +6,8 @@
   "homepage": "https://kyleknollelynch.github.io/pet_finder",
   "scripts": {
     "start": "parcel",
-    "build": "parcel build index.html",
-    "deploy": "gh-pages -d dist"
+    "build": "parcel build ./src/index.html",
+    "deploy": "gh-pages -d ./src/index.html"
   },
   "keywords": [],
   "author": "Kyle Lynch",
