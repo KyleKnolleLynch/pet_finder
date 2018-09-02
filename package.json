@@ -6,7 +6,7 @@
   "homepage": "https://kyleknollelynch.github.io/pet_finder",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.js",
+    "build": "parcel build index.html",
     "deploy": "gh-pages -d dist"
   },
   "keywords": [],
